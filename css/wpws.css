@@ -1,0 +1,14 @@
+.completedStatus{
+	
+	background: #0C0;
+}
+
+.cancelledStatus{
+	
+	background:#F96;
+}
+
+.inprogressStatus{
+	
+	background:#FF0;
+}
